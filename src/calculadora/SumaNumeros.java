@@ -13,7 +13,7 @@ System.out.print("Ingresa el segundo número: ");
 int numero2 = scanner.nextInt();
 //Lo guardamos
 int suma = numero1 + numero2;
-//Sumamos los numeros a la vez que los mostramos
+//Sumamos los numeros a la veaz que los mostramos
 System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 }
 }
