@@ -8,7 +8,7 @@ import java.util.Scanner;
  * <p>Este programa solicita al usuario dos números enteros, realiza su suma y
  * muestra el resultado en la consola.</p>
  * 
- * @author TuNombreAqui
+ * @author Gabriel
  */
 public class SumaNumeros {
 
