@@ -18,3 +18,4 @@ System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 }
 }
 //cambio realizado con la rama feature
+//comentario despues de haber realizado la fusion
